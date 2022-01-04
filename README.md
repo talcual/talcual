@@ -1,4 +1,4 @@
-[![talcual](https://i.imgur.com/F8qH3Hn.png)][1]
+(https://i.imgur.com/F8qH3Hn.png)
 
 
 
