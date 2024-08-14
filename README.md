@@ -1,4 +1,6 @@
 ![natterstefan](https://i.imgur.com/F8qH3Hn.png)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=talcual&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![talcual's Stats](https://github-readme-stats.vercel.app/api?username=talcual&theme=vue-dark&show_icons=true&hide_border=true&count_private=true) ![talcual's Streak](https://github-readme-streak-stats.herokuapp.com/?user=talcual&theme=vue-dark&hide_border=true)
+
+![talcual's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=talcual&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
